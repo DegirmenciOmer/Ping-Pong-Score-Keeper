@@ -34,6 +34,9 @@ Use the buttons to keep score.
 
 - Test your knowledge of RGB color codes.
 - Look at the number above, and guess which square matches the RGB code.
+- Easy and Hard options.
+- If your guess is incorrect then the color you click disappears.
+- If you click on the correct option all the color fields are colored with the correct RGB.
 
 (Hint: Remember the first number indicates the amount of RED, the second number indicates the amount of GREEN, and the third number indicates the amount of BLUE.)
 
