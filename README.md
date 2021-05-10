@@ -5,7 +5,7 @@ Use the buttons to keep score.
 # Color-Game-JS
 
 - Create a score-keeper using JavaScript.
-- Working site : https://colorgamebyomer.netlify.app
+- Working site : https://score-keeper-by-omer.netlify.app/
 
 ## Table of contents
 
@@ -17,8 +17,7 @@ Use the buttons to keep score.
 
 ## General info
 
-- This project is built to improve Javascript DOM Manipulation and CSS skills.
-- The [original web app](https://www.udemy.com/the-web-developer-bootcamp) was created by Colt Steele
+- This project is built to improve Javascript skills.
 
 ## Technologies
 
@@ -28,7 +27,7 @@ Use the buttons to keep score.
 
 # Clone this repository
 
-\$ git clone Score-Keeper
+\$ git clone Score-Keeper.git
 
 ## Features
 
