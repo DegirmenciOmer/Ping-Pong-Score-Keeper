@@ -27,17 +27,15 @@ Use the buttons to keep score.
 
 # Clone this repository
 
-\$ git clone Score-Keeper.git
+\$ git clone https://github.com/DegirmenciOmer/Ping-Pong-Score-Keeper.git
 
 ## Features
 
-- Test your knowledge of RGB color codes.
-- Look at the number above, and guess which square matches the RGB code.
-- Easy and Hard options.
-- If your guess is incorrect then the color you click disappears.
-- If you click on the correct option all the color fields are colored with the correct RGB.
+- Keep scores of two players.
+- Set the winning score.
+- When either of the players reach the winning score, the game ends.
+- Click the reset button to start a new game
 
-(Hint: Remember the first number indicates the amount of RED, the second number indicates the amount of GREEN, and the third number indicates the amount of BLUE.)
 
 ## Screenshots
 
