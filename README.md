@@ -1,10 +1,6 @@
 # Ping-Pong-Score-Keeper-With-Vanilla-JS
 
-Use the buttons to keep score.
 
-# Color-Game-JS
-
-- Create a score-keeper using JavaScript.
 - Working site : https://score-keeper-by-omer.netlify.app/
 
 ## Table of contents
