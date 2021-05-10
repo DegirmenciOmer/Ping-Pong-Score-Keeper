@@ -4,7 +4,7 @@ Use the buttons to keep score.
 
 # Color-Game-JS
 
-- Create a score-keeper using DOM Manipulation of JavaScript.
+- Create a score-keeper using JavaScript.
 - Working site : https://colorgamebyomer.netlify.app
 
 ## Table of contents
